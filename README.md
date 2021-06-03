@@ -7,7 +7,7 @@ Download and Install Flip https://www.microchip.com/Developmenttools/ProductDeta
 Flip will later be used to flash the ardunio with a new firmware so when the ardunio is 
 plugged into any device it should then load as USB Keyboard.
 
-Connect the ardunio and open up task manager, you should notice the ardunio is currently
+Connect the ardunio and open up device manager, you should notice the ardunio is currently
 displaying as a COM port. While the ardunio is currently connected and showing as a COM port
 you should flash the Main-Wheel.ino sketch onto the ardunio ready.
 
@@ -16,7 +16,7 @@ to put the ardunio in DFU mode this can by done by using jumper pin or a small w
 and shorting the 2 pins. <ADD IN PICTURE>
 
 
-When the pins have been shorted take another look at task manager you should
+When the pins have been shorted take another look at device manager you should
 notice the ardunio is not longer showing as a COM port and it may be missing 
 its driver if this is the case right click and click update driver then select
 from a directory locally on the computer then navigate to C:\Program Files (x86)\Atmel\Flip 3.4.7\usb
