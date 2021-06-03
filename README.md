@@ -26,7 +26,16 @@ its driver if this is the case right click and click update driver then select
 from a directory locally on the computer then navigate to C:\Program Files (x86)\Atmel\Flip 3.4.7\usb
 and click update driver this should now install the required driver for FLIP to connect to.
 
-Open the FLIP tool and click on the button that looks like a chip and select ATmega16U2 then click ok to save. Once the settings have been set for the ardunion click the connect button. at the bottom of the window you should see that it has connect. Then click the file button and load hex file. Select the Arduino-keyboard-0.3.hex file and click run. Once this has comleted click the start application button you should then hear the ardunio disconnect. Un plug the ardunio and plug it back in again to power cycle it.
+Open the FLIP tool and click on the button that looks like a chip and select ATmega16U2 then click ok to save.
+
+![alt text](https://github.com/Zy0d0x0/HS2-Wheel/blob/main/flipboardsettings.JPG)
+
+Once the settings have been set for the ardunion click the connect button. at the bottom of the window you should see that it has connect. 
+
+![alt text](https://github.com/Zy0d0x0/HS2-Wheel/blob/main/flipboardconnect.JPG)
+
+
+Then click the file button and load hex file. Select the Arduino-keyboard-0.3.hex file and click run. Once this has comleted click the start application button you should then hear the ardunio disconnect. Un plug the ardunio and plug it back in again to power cycle it.
 Now you should see in device manager the device does not show as a COM port.
 Open up notepad add some text then try using the wheel to navigate if all goes well on windows try pluggin in the wheel into the HS2 usb port on the rear of the radio.
 
