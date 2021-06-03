@@ -11,7 +11,7 @@ Required Hardware:
 * Wires
 * 3D Printer
 
-The wiring for this wheel is simple as it is just a rotary encoder connected to the ardunio.
+The wiring for this wheel is simple as it's just a rotary encoder connected to the Ardunio.
 
 ![alt text](https://lastminuteengineers.com/wp-content/uploads/arduino/wiring-rotary-encoder-with-arduino-uno.png)
 
@@ -26,7 +26,7 @@ Pin Connection:
 
 Resource From: https://lastminuteengineers.com/rotary-encoder-arduino-tutorial/
 
-Using a 3D printer a frame is then printed out for the rotary encoder to next be scrwed into
+Using a 3D printer a frame is then printed out for the rotary encoder to next be screwed into
 and the button being pushed over the top of the enocder.
 
 ![alt text](https://github.com/Zy0d0x0/HS2-Wheel/blob/main/wheel-sketch-example.jpg)
@@ -40,9 +40,9 @@ plugged into any device it should then load as USB Keyboard.
 
 Connect the Ardunio and open up Device Manager, take note the Ardunio is currently
 displaying as a COM port. While the Ardunio is currently connected and showing as a COM port
-you should flash the Main-Wheel.ino sketch onto the ardunio ready.
+the `Main-Wheel.ino` needs to be put onto the Ardunio using what ever IDE you normaly use.
 
-When the Ardunio has the keyboard sketched flashed onto its onboard memory. We need
+When the Ardunio has the `Main-Wheel.ino` onto its onboard memory. We need 
 to put the ardunio in DFU mode this can by done by using a jumper pin or a small peice of wire
 and shorting the 2 pins. 
 
