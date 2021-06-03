@@ -13,7 +13,11 @@ you should flash the Main-Wheel.ino sketch onto the ardunio ready.
 
 Once the ardunio has the keyboard sketched flashed onto its onboard memory. We need
 to put the ardunio in DFU mode this can by done by using jumper pin or a small wire
-and shorting the 2 pins. <ADD IN PICTURE>
+and shorting the 2 pins. 
+
+![alt text](https://github.com/Zy0d0x0/HS2-Wheel/blob/main/dfu.JPG)
+
+Resource from: https://www.arduino.cc/en/Hacking/DFUProgramming8U2
 
 
 When the pins have been shorted take another look at device manager you should
