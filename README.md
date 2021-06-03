@@ -4,8 +4,29 @@
 
 # Hardware Setup
 
+Required Hardware:
+
+* Ardunio Uno
+* Rotary Encoder
+* Wires
+
+The wiring for this wheel is simple as it is just a rotary encoder connected to the ardunio.
+
+![alt text](https://lastminuteengineers.com/wp-content/uploads/arduino/wiring-rotary-encoder-with-arduino-uno.png)
 
 
+Pin Connection:
+
+* GRD - GRD
+* 5V - 5V
+* SW - DPin 4
+* DT - DPin 3
+* CLK - DPin 2
+
+
+
+
+Resource From: https://lastminuteengineers.com/rotary-encoder-arduino-tutorial/
 
 # Software Setup
 
