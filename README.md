@@ -2,6 +2,11 @@
 
 ![alt text](https://github.com/Zy0d0x0/HS2-Wheel/blob/main/wheel-built.jpg)
 
+# Hardware Setup
+
+
+
+# Software Setup
 
 Download and Install Flip https://www.microchip.com/Developmenttools/ProductDetails/FLIP
 Flip will later be used to flash the ardunio with a new firmware so when the ardunio is 
