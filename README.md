@@ -35,7 +35,7 @@ and the button being pushed over the top of the enocder.
 # Software Setup
 
 Download and Install Flip https://www.microchip.com/Developmenttools/ProductDetails/FLIP
-Flip will later be used to flash the ardunio with a new firmware so when the ardunio is 
+This will later be used to flash the ardunio with a new firmware so when the ardunio is 
 plugged into any device it should then load as USB Keyboard.
 
 Connect the ardunio and open up device manager, you should notice the ardunio is currently
