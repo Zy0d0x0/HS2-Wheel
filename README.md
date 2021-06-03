@@ -69,6 +69,7 @@ Then click the file button and load hex file. Select the `Arduino-keyboard-0.3.h
 Now you should see in device manager the device does not show as a COM port.
 Open up notepad add some text then try using the wheel to navigate if all goes well on windows try pluggin in the wheel into the HS2 usb port on the rear of the radio.
 
+Resource for most of the flashing meterials: https://www.youtube.com/watch?v=tvqA-JcTQNg
 
 # Restore Ardunio
 
