@@ -9,6 +9,7 @@ Required Hardware:
 * Ardunio Uno
 * Rotary Encoder
 * Wires
+* 3D Printer
 
 The wiring for this wheel is simple as it is just a rotary encoder connected to the ardunio.
 
@@ -23,10 +24,13 @@ Pin Connection:
 * DT - DPin 3
 * CLK - DPin 2
 
-
-
-
 Resource From: https://lastminuteengineers.com/rotary-encoder-arduino-tutorial/
+
+Using a 3D printer a frame is then printed out for the rotary encoder to next be scrwed into
+and the button being pushed over the top of the enocder.
+
+![alt text](https://github.com/Zy0d0x0/HS2-Wheel/blob/main/wheel-sketch-example.jpg)
+
 
 # Software Setup
 
