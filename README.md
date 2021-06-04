@@ -86,7 +86,7 @@ the connection will become established.
 
 ![alt text](https://github.com/Zy0d0x0/HS2-Wheel/blob/main/flipboardconnect.JPG)
 
-Then by clickinh the `File` button and `load hex file`, Select the `Arduino-keyboard-0.3.hex` file and click then `run` button on the lower part of the applications. Once this has comleted click the `start application` button you should then hear the Ardunio disconnect. Un-plug the Ardunio and plug it back in again to power cycle it.
+Then by clickinh the `File` button and `Load HEX File`, Select the `Arduino-keyboard-0.3.hex` file and click then `Run` button on the lower part of the applications. Once this has comleted click the `Start Application` button you should then hear the Ardunio disconnect. Un-plug the Ardunio and plug it back in again to power cycle it.
 Now it should be possible to see in device manager the device does not display as a COM port.
 Open up notepad add some text then try using the wheel to navigate if all goes well on windows try pluggin in the wheel into the HS2 usb port on the rear of the radio.
 
