@@ -14,7 +14,7 @@ Keys Found to be in use:
 * F1 (PA)
 * F10 (Menu)
 
-Thanks to both SQ9CWN & CALL for helping find out the keys used by the keyboard as i do not own 
+Thanks to both SQ9CWN & CALL for helping find out the keys used by the keyboard as M7SYN do not own 
 a wired USB keyboard.
 
 ![alt text](https://github.com/Zy0d0x0/HS2-Wheel/blob/main/front.png)
@@ -44,12 +44,11 @@ Pin Connection:
 Resource From: https://lastminuteengineers.com/rotary-encoder-arduino-tutorial/
 
 Using a 3D printer a frame is then printed out for the rotary encoder to next be screwed into
-and the button being pushed over the top of the enocder. When fitting the rotary encode is can be
+and the button being pushed over the top of the enocder. When fitting the rotary encoder can be
 a bit of a tight fit and the washer is not used. It was also found by bending the little tab on the
 encoder it allowed the locking nut to fit over the top and be tighted up.
 
 ![alt text](https://github.com/Zy0d0x0/HS2-Wheel/blob/main/Frame_Cura.JPG)
-
 
 The Knob can be found here https://www.thingiverse.com/thing:2797118
 
@@ -57,16 +56,16 @@ The Knob can be found here https://www.thingiverse.com/thing:2797118
 # Software Setup
 
 Download and Install Flip https://www.microchip.com/Developmenttools/ProductDetails/FLIP
-This will later be used to flash the ardunio with a new firmware so when the ardunio is 
+This will later be used to flash the ardunio with a new firmware so when the Ardunio is 
 plugged into any device it should then load as USB Keyboard.
 
 Connect the Ardunio and open up Device Manager, take note the Ardunio is currently
 displaying as a COM port. While the Ardunio is currently connected and showing as a COM port
 the `Main-Wheel.ino` needs to be put onto the Ardunio using what ever IDE you normaly use.
 
-When the Ardunio has the `Main-Wheel.ino` onto its onboard memory. We need 
-to put the ardunio in DFU mode this can by done by using a jumper pin or a small peice of wire
-and shorting the 2 pins. 
+When the Ardunio has the `Main-Wheel.ino` sketch copied to its onboard memory. The Ardunio then needs 
+to put into DFU mode this can by done by using a jumper pin or a small peice of wire
+and shorting the 2 pins shown in the below image. 
 
 ![alt text](https://github.com/Zy0d0x0/HS2-Wheel/blob/main/dfu.JPG)
 
@@ -91,7 +90,7 @@ Then click the file button and load hex file. Select the `Arduino-keyboard-0.3.h
 Now you should see in device manager the device does not show as a COM port.
 Open up notepad add some text then try using the wheel to navigate if all goes well on windows try pluggin in the wheel into the HS2 usb port on the rear of the radio.
 
-Resource for most of the flashing meterials: https://www.youtube.com/watch?v=tvqA-JcTQNg
+Resource for most of the flashing and keyboard functionality was from the following video: https://www.youtube.com/watch?v=tvqA-JcTQNg
 
 # Restore Ardunio
 
