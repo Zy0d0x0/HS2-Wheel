@@ -1,7 +1,7 @@
 # HS2/Hid-Wheel
 
 Since the new HS2 Firmware version V1.3.7 has been released it was noted in the changelog, that USB support 
-has been added to the radio using the USB port on the rear. This gave me M7SYN a idea to use a Ardunio to
+has been added to the radio using the USB port on the rear. This gave M7SYN a idea to use a Ardunio to
 simulate a USB keyboard.
 
 Keys Found to be in use:
