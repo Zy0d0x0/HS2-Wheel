@@ -1,5 +1,22 @@
 # HS2-Wheel By M7SYN
 
+Since the new HS2 Firmware version V1.3.7 has been released it was noted in the change log USB support 
+has been added to the radio using the USB port on the rear. This give me a idea to use a ardunio to
+simulate a USB keyboard.
+
+Keys Found to be in use:
+
+* Enter
+* Left 
+* Right
+* Up
+* Down
+* F1 (PA)
+* F10 (Menu)
+
+Thanks to both <names> for helping find out the keys used by the keyboard as i do not own 
+a wired USB keyboard.
+
 ![alt text](https://github.com/Zy0d0x0/HS2-Wheel/blob/main/wheel-built.jpg)
 
 # Hardware Setup
