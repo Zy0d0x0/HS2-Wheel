@@ -13,9 +13,20 @@ int lastStateCLK;
 String currentDir ="";
 unsigned long lastButtonPress = 0;
 
+
+boolean Flip1State = false;
+boolean Flip2State = false;
+
+boolean buttonActive = false;
+boolean longPressActive = false;
+
+long buttonTimer = 0;
+long longPressTime = 400;
+
+
 int upLeft = 79;
 int downRight = 80;
-int buttonClicked = 0;
+
 
 void setup() {
   
@@ -67,33 +78,44 @@ void loop() {
 
   //If we detect LOW signal, button is pressed
   if (btnState == LOW) {
-    //if 50ms have passed since last LOW pulse, it means that the
-    //button has been pressed, released and pressed again
-    if (millis() - lastButtonPress > 50 ) {
-
-      if (buttonClicked == 0) {
-        upLeft = 82;
-        downRight = 81;
-        buttonClicked = 1;
-  
-      } else {
-        upLeft = 79;
-        downRight = 80;
-        buttonClicked = 0;
-
-      }
-      
-    } else {
-      buf[2] = 40;    // HID: ENTER key
-      Serial.write(buf, 8);
-      releaseKey();
+   if (buttonActive == false) {
+      buttonActive = true;
+      buttonTimer = millis();
     }
 
-    // Remember last button press event
-    lastButtonPress = millis();
- 
+    if ((millis() - buttonTimer > longPressTime) && (longPressActive == false)) {
+
+      longPressActive = true;
+      Flip1State = !Flip1State;
+
+      if (Flip1State == 1){
+        upLeft = 79;
+        downRight = 80;
+        
+      } else {
+        upLeft = 82;
+        downRight = 81;
+      }
+     
+    } 
   
-    
+  } else {
+    if (buttonActive == true) {
+
+      if (longPressActive == true) {
+        longPressActive = false;
+
+      } else {
+        Flip2State = !Flip2State;
+        buf[2] = 40;    // HID: ENTER key
+        Serial.write(buf, 8);
+        releaseKey();  
+      }
+
+      buttonActive = false;
+     
+    }
+ 
   }
 
   // Put in a slight delay to help debounce the reading
