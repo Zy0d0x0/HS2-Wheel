@@ -77,11 +77,11 @@ noted the Ardunio is not longer showing as a COM port and it may be missing its 
 select install driver from a local folder on the computer then navigate to `C:\Program Files (x86)\Atmel\Flip 3.4.7\usb`
 then click update driver this should now install the required driver for Ardunio DFU mode so that FLIP can connect to it.
 
-Open the FLIP tool and click on the button that looks like a chip and select ATmega16U2 in the dropdown menu then click the ok button to save the changes.
+Open the FLIP tool and click on the button that looks like a micro chip and select ATmega16U2 in the dropdown menu then click the ok button to save the changes.
 
 ![alt text](https://github.com/Zy0d0x0/HS2-Wheel/blob/main/flipboardsettings.JPG)
 
-Once the settings have been set for the Ardunio click the Connect Button next to the chip button prevoisuly pressed. It should be noticed at the bottom of the FLIP software
+Once the settings have been set for the Ardunio click the `Connect` Button. This is next to the micro chip button prevoisuly pressed. It should be noticed at the bottom of the FLIP software
 the connection will become established. 
 
 ![alt text](https://github.com/Zy0d0x0/HS2-Wheel/blob/main/flipboardconnect.JPG)
