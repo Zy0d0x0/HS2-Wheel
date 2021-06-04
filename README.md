@@ -81,8 +81,8 @@ Open the FLIP tool and click on the button that looks like a micro chip and sele
 
 ![alt text](https://github.com/Zy0d0x0/HS2-Wheel/blob/main/flipboardsettings.JPG)
 
-Once the settings have been set for the Ardunio click the `Connect` Button. This is next to the micro chip button prevoisuly pressed. It should be noticed at the bottom of the FLIP software
-the connection will become established. 
+Once the settings have been set for the Ardunio click the `Connect` Button. This is next to the micro chip button prevoisuly pressed. Once the `Connect` button has been press you should see a `USB` button that also needs to be clicked. It should be noticed at the bottom of the FLIP software
+the connection will then become established. 
 
 ![alt text](https://github.com/Zy0d0x0/HS2-Wheel/blob/main/flipboardconnect.JPG)
 
