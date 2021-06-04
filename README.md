@@ -17,7 +17,7 @@ Keys Found to be in use:
 Thanks to both <names> for helping find out the keys used by the keyboard as i do not own 
 a wired USB keyboard.
 
-![alt text](https://github.com/Zy0d0x0/HS2-Wheel/blob/main/wheel-built.jpg)
+![alt text](https://github.com/Zy0d0x0/HS2-Wheel/blob/main/front.png)
 
 # Hardware Setup
 
