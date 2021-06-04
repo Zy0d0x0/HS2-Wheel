@@ -32,6 +32,9 @@ and the button being pushed over the top of the enocder.
 ![alt text](https://github.com/Zy0d0x0/HS2-Wheel/blob/main/Frame_Cura.JPG)
 
 
+The Knob can be found here https://www.thingiverse.com/thing:2797118
+
+
 # Software Setup
 
 Download and Install Flip https://www.microchip.com/Developmenttools/ProductDetails/FLIP
