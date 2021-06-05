@@ -8,7 +8,7 @@ simulate a USB keyboard to work as a tuner and navigational wheel. The below pro
 this little wheel that should of been added to the HS2 or created as sub product sold along with the radio inculded
 with the price.
 
-Keys found to be in use:
+Keys found to be in use with keybord control:
 
 * Enter
 * Left 
