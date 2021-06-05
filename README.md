@@ -95,7 +95,7 @@ By clicking the `File` button and `Load HEX File`, Select the `Arduino-keyboard-
 Now it should be possible to see in device manager the device does not display as a COM port.
 Open up notepad add some text then try using the wheel to navigate if all goes well on windows try pluggin in the wheel into the HS2 usb port on the rear of the radio.
 
-Resource for most of the flashing and keyboard functionality was from the following video: https://www.youtube.com/watch?v=tvqA-JcTQNg
+The primay resource for the flashing of the Arduino to make it aa keybord was found by watching this video: https://www.youtube.com/watch?v=tvqA-JcTQNg
 
 # Restoring The Ardunio
 
