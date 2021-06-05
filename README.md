@@ -47,10 +47,10 @@ CLK | DPin 2
 
 Resource From: https://lastminuteengineers.com/rotary-encoder-arduino-tutorial/
 
-Using a 3D printer, A frame is then printed out for the rotary encoder to next be screwed into
-and then the custom printed button of choice can then be be pushed over the top of the enocder. 
-
-When fitting the rotary encoder it was found it can be a bit of a tight fit so the washer supplied with the encoder was not used. 
+Using a 3D printer it is possible to print the following frame for the rotary encoder to then next be screwed into
+and when a tuner knob has either been used from this git or has been sourced on other resourses this can be applied. 
+ 
+When fitting the rotary encoder to the frame it maybe found that the fitment is tight as in this project the washer was not used. 
 It was also found by bending the little tab on the encoder it allowed the locking nut to fit over the top and be tighted up.
 
 ![alt text](https://github.com/Zy0d0x0/HS2-Wheel/blob/main/Frame_Cura.JPG)
