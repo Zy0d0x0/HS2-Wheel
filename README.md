@@ -1,6 +1,6 @@
 # HS2/Hid-Wheel
 
-Since the new HS2 Firmware version V1.3.7 has been released it was noted in the changelog that USB support 
+Since the new release of the HS2 Firmware version V1.3.7. It was noted in the changelog that USB support 
 has been added to the radio using the USB port on the rear. This gave M7SYN a idea to use a Ardunio to
 simulate a USB keyboard.
 
