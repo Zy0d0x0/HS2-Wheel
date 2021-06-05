@@ -36,7 +36,7 @@ M7SYN just connects the wires directly to the encoder for this project.
 ![alt text](https://lastminuteengineers.com/wp-content/uploads/arduino/wiring-rotary-encoder-with-arduino-uno.png)
 
 
-The Pin Connections between the Encoder and the Ardunio:
+The below table shows the Pin Connections between the Encoder and the Ardunio:
 
 
 Rotary Encoder | Ardunio Pins
