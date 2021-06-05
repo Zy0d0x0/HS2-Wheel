@@ -45,8 +45,8 @@ Pin Connection:
 
 Resource From: https://lastminuteengineers.com/rotary-encoder-arduino-tutorial/
 
-Using a 3D printer a frame is then printed out for the rotary encoder to next be screwed into
-and the button being pushed over the top of the enocder. 
+Using a 3D printer, A frame is then printed out for the rotary encoder to next be screwed into
+and then the custom printed button of choice can then be be pushed over the top of the enocder. 
 
 When fitting the rotary encoder it was found it can be a bit of a tight fit so the washer supplied with the encoder was not used. 
 It was also found by bending the little tab on the encoder it allowed the locking nut to fit over the top and be tighted up.
