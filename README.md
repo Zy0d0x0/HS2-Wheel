@@ -10,13 +10,19 @@ with the price.
 
 Keys found to be in use with keybord control:
 
-* Enter
-* Left 
-* Right
-* Up
-* Down
-* F1 (PA)
-* F10 (Menu)
+Keyboard Key | Function
+-------------- | -------------
+F2 |Band
+F3 |BW
+F4 |RF - RF Gain setting
+F5 |RF - IF Gain setting
+F6 |Mode
+F7 |Spec Menu
+F8 |AF
+F9 |Menu short press - enter option in menu
+F10 |Menu long press - enter main menu, exit  from menu option
+Page Up |cursor/option right
+Page Down |cursor/option left
 
 Thanks to both SQ9CWN & Marek for helping find out the keys used by the keyboard as M7SYN does not own a wired USB keyboard.
 
