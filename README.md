@@ -35,13 +35,16 @@ M7SYN just connects the wires directly to the encoder for this project.
 ![alt text](https://lastminuteengineers.com/wp-content/uploads/arduino/wiring-rotary-encoder-with-arduino-uno.png)
 
 
-Pin Connection:
+Pin Connection between the encoder and the Ardunio:
 
-* GRD - GRD
-* 5V - 5V
-* SW - DPin 4
-* DT - DPin 3
-* CLK - DPin 2
+
+Rotary Encoder | Ardunio Pins
+-------------- | -------------
+GRD | GRD
+5V | 5V
+SW | DPin 4
+DT | DPin 3
+CLK | DPin 2
 
 Resource From: https://lastminuteengineers.com/rotary-encoder-arduino-tutorial/
 
