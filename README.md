@@ -14,8 +14,7 @@ Keys found to be in use:
 * F1 (PA)
 * F10 (Menu)
 
-Thanks to both SQ9CWN & CALL for helping find out the keys used by the keyboard as M7SYN do not own 
-a wired USB keyboard.
+Thanks to both SQ9CWN & CALL for helping find out the keys used by the keyboard as M7SYN does not own a wired USB keyboard.
 
 ![alt text](https://github.com/Zy0d0x0/HS2-Wheel/blob/main/front.png)
 
