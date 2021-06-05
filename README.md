@@ -97,7 +97,7 @@ Open up notepad add some text then try using the wheel to navigate if all goes w
 
 Resource for most of the flashing and keyboard functionality was from the following video: https://www.youtube.com/watch?v=tvqA-JcTQNg
 
-# Restore Ardunio
+# Restoring The Ardunio
 
 Returning the Ardunio to its normal state is possible by putting the ardunio into DFU mode once again with the jumper pin
 then instead of selecting the `Arduino-keyboard-0.3.hex` file this time around you need to use the `Arduino-usbserial-atmega16u2-Uno-Rev3.hex`.
