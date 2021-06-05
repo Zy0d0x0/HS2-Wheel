@@ -29,6 +29,7 @@ Required Hardware:
 * 3D Printer
 
 The wiring for this wheel is simple as it's just a rotary encoder connected to the Ardunio.
+M7SYN just connects the wires directly to the encoder for this project.
 
 ![alt text](https://lastminuteengineers.com/wp-content/uploads/arduino/wiring-rotary-encoder-with-arduino-uno.png)
 
