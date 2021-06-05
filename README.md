@@ -1,5 +1,7 @@
 # HS2/Hid-Wheel
 
+![alt text](https://github.com/Zy0d0x0/HS2-Wheel/blob/main/front.png)
+
 Since the new release of the HS2 Firmware version V1.3.7. It was noted in the changelog that USB support 
 has been added to the radio using the USB port on the rear. This gave M7SYN a idea to use a Ardunio to
 simulate a USB keyboard.
@@ -15,8 +17,6 @@ Keys found to be in use:
 * F10 (Menu)
 
 Thanks to both SQ9CWN & CALL for helping find out the keys used by the keyboard as M7SYN does not own a wired USB keyboard.
-
-![alt text](https://github.com/Zy0d0x0/HS2-Wheel/blob/main/front.png)
 
 # Hardware Setup
 
