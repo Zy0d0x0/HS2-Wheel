@@ -5,7 +5,7 @@
 Since the new release of the HS2 Firmware version V1.3.7. It was noted in the changelog that USB support 
 has been added to the radio using the port on the rear. This gave M7SYN a idea to use a Ardunio to
 simulate a USB keyboard to work as a tuner and navigational wheel. The below project shows how M7SYN created
-this little wheel that should of been added to the HS2.
+this little wheel that should of been added to the HS2 or created as sub product sold along with the radio.
 
 Keys found to be in use:
 
