@@ -116,4 +116,4 @@ then instead of selecting the `Arduino-keyboard-0.3.hex` file this time around y
 
 # Todo
 
-- [ ] Craated rear cover to enclose the Ardunio while still exposing the USB port.
+- [ ] Create rear cover to enclose the Ardunio while still exposing the USB port.
