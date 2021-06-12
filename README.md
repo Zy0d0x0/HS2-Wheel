@@ -24,7 +24,7 @@ F10 |Menu long press - enter main menu, exit  from menu option
 Page Up |cursor/option right
 Page Down |cursor/option left
 
-Thanks to both SQ9CWN & Marek for helping find out the keys used by the keyboard as M7SYN does not own a wired USB keyboard.
+Thanks to both SQ9CWN & EI8FIB for helping find out the keys used by the keyboard as M7SYN does not own a wired USB keyboard.
 
 # Hardware Setup
 
