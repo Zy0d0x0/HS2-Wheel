@@ -8,6 +8,11 @@ simulate a USB keyboard to work as a tuner and navigational wheel. The below pro
 this little wheel that should of been added to the HS2 or created as sub product sold along with the radio inculded
 with the price.
 
+# Credits
+
+* Thanks to both SQ9CWN & EI8FIB for helping find out the keys used by the keyboard as M7SYN does not own a wired USB keyboard.
+* Editing & proof-reading done by M7GCH.
+
 Keys found to be in use with keybord control:
 
 Keyboard Key | Function
@@ -23,8 +28,6 @@ F9 |Menu short press - enter option in menu
 F10 |Menu long press - enter main menu, exit  from menu option
 Page Up |cursor/option right
 Page Down |cursor/option left
-
-Thanks to both SQ9CWN & EI8FIB for helping find out the keys used by the keyboard as M7SYN does not own a wired USB keyboard.
 
 # Hardware Setup
 
